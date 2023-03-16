@@ -12,7 +12,7 @@ $.get("/BobikArchive/assets/master_database.json", (data) => {
     }
 
     if (!VALID_QS.includes(qs.category)) {
-        window.location.replace("/404");
+        window.location.replace("/BobikArchive/404");
     }
 
     document.getElementById("works-header").innerHTML = `${MEDIUM_KEYS[qs.category]} Works`;

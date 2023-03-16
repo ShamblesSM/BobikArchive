@@ -13,7 +13,7 @@ $.get("/BobikArchive/assets/master_database.json", (data) => {
     if (MASTER_DB.works[qs.id]) {
         item_meta = MASTER_DB.works[qs.id];
     } else {
-        window.location.replace("/404");
+        window.location.replace("/BobikArchive/404");
     }
 
     // display name, description & notes
