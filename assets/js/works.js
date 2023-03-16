@@ -33,7 +33,7 @@ $.get("/assets/master_database.json", (data) => {
         let work = FILTERED_DATA[workId];
 
         // display name
-        $(row).append(`<td><a href="/item?id=${workId}">${work.displayName}</a></th>`);
+        $(row).append(`<td><a href="/BobikArchive/item?id=${workId}">${work.displayName}</a></th>`);
 
         // archive date
         let arcdate = new Date(work.archiveDate);
