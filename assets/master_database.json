@@ -120,6 +120,9 @@
             "category": "pekkakana2",
             "displayName": "Mystery",
             "notes": "This map was made while he was \"lackj\" on the Internet. Using wget on the source revealed the upload date, which was January 31, 2014. The map was taken from mapstore.the.cz.",
+            "images": [
+                "greenfields.png"
+            ],
             "medium": "Pekka Kana 2",
             "originalDate": "2014-01-31",
             "archiveDate": "2023-03-16",
@@ -131,6 +134,24 @@
                 {
                     "name": "Google Drive Mirror",
                     "link": "https://drive.google.com/file/d/10VCkW3L5E2z7OvuPl7lOqmpQMXO_eGbq/view?usp=share_link"
+                }
+            ]
+        },
+        "pk2_bobiksisland": {
+            "category": "pekkakana2",
+            "displayName": "Bobik's Island",
+            "description": "This is an episode I've been woriking on and it's almost complete.\nIt mix-n-matches old and new levels of mine and features some new sprites as well as the unofficial-official assets. Difficulty varies from easy to hard (no very hard though).",
+            "notes": "This Pekka Kana 2 episode is currently BROKEN - most maps may crash your game as Bobik may have used custom assets for the episode. Said assets are considered lost.",
+            "images": [
+                "dashforfreedom.png"
+            ],
+            "medium": "Pekka Kana 2",
+            "originalDate": "2016-11-19",
+            "archiveDate": "2023-03-17",
+            "downloadLinks": [
+                {
+                    "name": "Google Drive",
+                    "link": "https://drive.google.com/file/d/1Cu-cAJ5KAZewB-a3rHK8zY6QN4SONVUu/view?usp=share_link"
                 }
             ]
         }
