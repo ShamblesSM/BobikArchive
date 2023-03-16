@@ -25,7 +25,7 @@
             "category": "spherematchers",
             "displayName": "Luxor Mod 2016",
             "description": "I began working on a new mod for Luxor Amun Rising. The mod will mix tracks from Luxor, Luxor AR and Luxor 2. Most levels will have tracks from Luxor 2 bonus stages. The theme for the mod is: abstraction. I have started barely two days ago and I will be informing you on the progress in this mod.",
-            "notes": "The only available version is Version 1.21. The rest (Alpha v0.1, 1.0, 1.01, and 1.2) were all uploaded on Dropbox and are considered lost.",
+            "notes": "The only available version is Version 1.21. The rest (Alpha v0.1, 1.0, 1.01, and 1.2) were all uploaded on Dropbox; only Alpha v0.1 and 1.0 have been found. The rest are considered lost.\n\nThe original downloads had files necessary for the game to run and thus have been removed.",
             "images": [
                 "d9wxbt1-9edf021c-f9d9-405e-96dd-154c40a54281.png",
                 "d9wxc4r-954550f0-2634-4dfb-b9e8-a6f2dda4b3a8.png",
@@ -39,6 +39,14 @@
                 {
                     "name": "v1.21 (Google Drive)",
                     "link": "https://drive.google.com/file/d/1qLKNPDf2YpWaQlIFU98icHURZHvh7QUx/view?usp=share_link"
+                },
+                {
+                    "name": "v1.0 (Google Drive)",
+                    "link": "https://drive.google.com/file/d/1C5BXkHqQIY3_beCwRBcAeKeU4Zl1kF9q/view?usp=share_link"
+                },
+                {
+                    "name": "Alpha v0.1 Demo (Google Drive)",
+                    "link": "https://drive.google.com/file/d/1V4HafNJKQbLq4rdTomJUd-OAPZ3wjHWq/view?usp=share_link"
                 }
             ]
         },
@@ -46,6 +54,7 @@
             "category": "spherematchers",
             "displayName": "Galactic Space Journey",
             "description": "<i>The galactic space journey begins!</i> Hop into your sci-fi shooter and travel from planet to planet - past the deep blue waters of Pili, past the sand wasteland of Ifetayo, past the freezing ice deserts of Celensoan and past even the hot lavaland of Vaatz - can you get your hands on the great untouched deposits of resources on the final planet of Aggerholm? 26 new maps, over one hundred levels, that's what awaits you when you start the Galactic Space Journey!<br><br>The mod has been released on the 1st of September 2016.",
+            "notes": "The original downloads had files necessary for the game to run and thus have been removed.",
             "images": [
                 "luxlantis.png"
             ],
