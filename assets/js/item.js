@@ -6,7 +6,7 @@ function getMetaInfoString(field, word) {
     return field ? field.replace(/\n/g, "<br>") : `<i>No ${word} provided.</i>`;
 }
 
-$.get("/assets/master_database.json", (data) => {
+$.get("/BobikArchive/assets/master_database.json", (data) => {
     const MASTER_DB = data;
     let item_meta;
 

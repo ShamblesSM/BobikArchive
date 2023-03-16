@@ -2,7 +2,7 @@ const qs = new Proxy(new URLSearchParams(window.location.search), {
     get: (searchParams, prop) => searchParams.get(prop),
 });
 
-$.get("/assets/master_database.json", (data) => {
+$.get("/BobikArchive/assets/master_database.json", (data) => {
     const MASTER_DB = data;
 
     const VALID_QS = ["spherematchers", "pekkakana2"]
