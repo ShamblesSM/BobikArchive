@@ -1,0 +1,95 @@
+@font-face {
+    font-family: "Metal Hen";
+    src: url("fonts/Metal_Hen.ttf");
+}
+
+body {
+    background-color: #2055cf;
+    background-image: url('http://www.pistegamez.net/forum_bg.png');
+    font-size: 10pt;
+    font-family: Verdana, Arial;
+    color: white;
+}
+
+#main {
+    background-color: black;
+    border-color: #ff0000;
+    border-style: solid;
+    border-width: 1px;
+    width: 55%;
+    margin: auto;
+    padding: 12px;
+}
+
+#header {
+    text-align: center;
+    margin-bottom: 12px;
+}
+
+#header #logo {
+    font-family: "Metal Hen";
+}
+
+b a, a b {
+    font-weight: bold;
+}
+
+a {
+    cursor: pointer;
+    color: #ffb903;
+    font: 100% Verdana, Arial;
+    text-decoration: none;
+}
+:visited {
+    color: #ffb903;
+    text-decoration: none;
+}
+a:hover {
+    color: #ffb903;
+    text-decoration: none;
+}
+a:active {
+    color: #ffb903;
+    text-decoration: none;
+}
+a.text {
+    cursor: default;
+}
+
+ul.navbar, ol.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ul.navbar li, ol.navbar li {
+    display: inline;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+table.works {
+    width: 100%
+}
+table.works > * th {
+    text-align: left;
+}
+table.item-info > * th {
+    text-align: left;
+    padding-right: 16px;
+}
+
+h1 {
+    font-size: 12pt;
+}
+h2 {
+    font-size: 11pt;
+}
+
+.hastooltip {
+    text-decoration: underline dotted;
+}
+
+#footer {
+    margin-top: 12px;
+    font-size: 8pt;
+}

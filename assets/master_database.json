@@ -1,0 +1,110 @@
+{
+    "works": {
+        "lx_wrathofset": {
+            "category": "spherematchers",
+            "displayName": "Luxor: The Wrath of Set",
+            "description": "I started making a new mod, this time for Luxor. The idea is to mix levels from Luxor and Luxor Amun Rising (there will be some path alterations as well), generally, trying to make out the best of Luxor gameplay. There will be a total of 21 stages, each stage has 5 regular levels and one level with zuma-like gameplay (single long train). The mod comes before Luxor Mod 2016.",
+            "notes": "The original download no longer exists and was hosted on Dropbox. Additionally, the original download also had the full game files in them. The downloads here do not, for anti-piracy reasons.\n\nFurthermore, v1.0 is not provided as it doesn't work. The latest version is v1.01.",
+            "images": [
+                "da194h2-a230e87f-5e0b-4b92-b09a-3ac64b996bed.png",
+                "da194s1-64697d69-c474-4e13-a705-e98bfc8e584e.png",
+                "da19561-760d7141-0171-4324-b24e-83a1d75f8029.png"
+            ],
+            "medium": "Luxor",
+            "originalDate": "2016-05-03",
+            "archiveDate": "2023-03-16",
+            "originalSource": "https://web.archive.org/web/20200219061541/https://spherematchers.proboards.com/thread/195/luxor-wrath-set-new-mod",
+            "downloadLinks": [  
+                {
+                    "name": "Google Drive",
+                    "link": "https://drive.google.com/file/d/1H80Hbcq8yIx9H81gZd8AY9Si5SggnXMh/view?usp=share_link"
+                }
+            ]
+        },
+        "lx_lm2016": {
+            "category": "spherematchers",
+            "displayName": "Luxor Mod 2016",
+            "description": "I began working on a new mod for Luxor Amun Rising. The mod will mix tracks from Luxor, Luxor AR and Luxor 2. Most levels will have tracks from Luxor 2 bonus stages. The theme for the mod is: abstraction. I have started barely two days ago and I will be informing you on the progress in this mod.",
+            "notes": "The only available version is Version 1.21. The rest (Alpha v0.1, 1.0, 1.01, and 1.2) were all uploaded on Dropbox and are considered lost.",
+            "images": [
+                "d9wxbt1-9edf021c-f9d9-405e-96dd-154c40a54281.png",
+                "d9wxc4r-954550f0-2634-4dfb-b9e8-a6f2dda4b3a8.png",
+                "d9wxcbj-b6b04465-7a22-42ab-a78a-99968e1e7da4.png"
+            ],
+            "medium": "Luxor Amun Rising",
+            "originalDate": "2016-03-28",
+            "archiveDate": "2023-03-16",
+            "originalSource": "https://web.archive.org/web/20200317192150/https://spherematchers.proboards.com/thread/136/luxor-mod-2016-released",
+            "downloadLinks": [  
+                {
+                    "name": "v1.21 (Google Drive)",
+                    "link": "https://drive.google.com/file/d/1qLKNPDf2YpWaQlIFU98icHURZHvh7QUx/view?usp=share_link"
+                }
+            ]
+        },
+        "lx_galacticspacejourney": {
+            "category": "spherematchers",
+            "displayName": "Galactic Space Journey",
+            "description": "<i>The galactic space journey begins!</i> Hop into your sci-fi shooter and travel from planet to planet - past the deep blue waters of Pili, past the sand wasteland of Ifetayo, past the freezing ice deserts of Celensoan and past even the hot lavaland of Vaatz - can you get your hands on the great untouched deposits of resources on the final planet of Aggerholm? 26 new maps, over one hundred levels, that's what awaits you when you start the Galactic Space Journey!<br><br>The mod has been released on the 1st of September 2016.",
+            "images": [
+                "luxlantis.png"
+            ],
+            "medium": "Luxor Amun Rising",
+            "originalDate": "2016-09-01",
+            "archiveDate": "2023-03-16",
+            "originalSource": "https://web.archive.org/web/20200214162335/https://spherematchers.proboards.com/thread/433/galactic-space-journey-mod-bobik",
+            "downloadLinks": [  
+                {
+                    "name": "Google Drive",
+                    "link": "https://drive.google.com/file/d/1UiirPLo2C4CLjWelFQSmYZDHsl_ftWLT/view?usp=share_link"
+                }
+            ]
+        },
+        "pk2_applepursuit": {
+            "category": "pekkakana2",
+            "displayName": "The Apple Pursuit",
+            "description": "There was once a rooster called Pekka who lived in Finland and whose job was to take care of chickens in his henhouse. And this is what he was doing every day. Well, maybe except if someone (hmm, I wonder who) kidnapped all the hens and Pekka had to rescue them! This didn't just happen once, but with the help of the brave rooster, the chickens always were home and dry after all. And so, for his great skills and dedication to the hens (and the whole world) Pekka has been awarden The Silver Apple®. This was really something for a farm bird like Pekka. But for a time...\n\nThe Apple Pursuit is Bobik's third episode for Pekka Kana 2. The episode consists of 30 levels, among which you'll find three boss battles and three bonus rounds. I had spent quite a lot of time making this episode and I hope you enjoy playing it. The levels are kinda tricky but it is 100% possible to beat them all - all you need is the skill! What you'll also find here are many custom made resources. You may freely distribute all music modules, graphics and sprites from this package on the Internet (just remember to credit their proper creators). The episode should be played at 640x480 (the smallest) resolution and was tested with version 1.21 of Pekka Kana 2. Before playing, choose the language file included in this archive \"- The Apple Pursuit -.txt\".",
+            "notes": "The version linked below should have Riddle of the Sphinx already fixed; there were multiple bugs in the level. When in doubt, download the level fix below, labelled \"Riddle of the Sphinx Fix\".",
+            "images": [
+                "da4ywye-8384a24b-8cac-4e41-b607-e0bfb54f745d.png",
+                "da4yxr2-c5e57531-9c34-4900-91e1-f9ecf7f4a32f.png",
+                "da4yyad-add91770-66b4-4e1f-900e-5d3284e577b7.png",
+                "da4yypc-a81fa004-6211-4f97-aaa7-b004ecbeb0b3.png",
+                "da4yze6-ed359bc9-aea6-4f92-9d35-5ec4925292f1.png"
+            ],
+            "medium": "Pekka Kana 2",
+            "originalDate": "2014-10-05",
+            "archiveDate": "2023-03-16",
+            "originalSource": "https://web.archive.org/web/20230316040243/https://pistegamez.proboards.com/thread/739/apple-pursuit-episode-bobik-released",
+            "downloadLinks": [
+                {
+                    "name": "Version v2.01 (Google Drive)",
+                    "link": "https://drive.google.com/file/d/18HFIcplbKaLUZXqVxgVziWR8kINXYDBS/view?usp=sharing",
+                    "notes": "Mirrored by RowlandGardner#2362"
+                },
+                {
+                    "name": "Riddle of the Sphinx Fix",
+                    "link": "https://drive.google.com/file/d/1SW1n90Yj773CT7BpTixTDQIiMvO60Dmy/view?usp=share_link"
+                }
+            ]
+        },
+        "pk2_mystery": {
+            "category": "pekkakana2",
+            "displayName": "Mystery",
+            "notes": "This map was made while he was \"lackj\" on the Internet. Using wget on the source revealed the upload date, which was January 31, 2014. The map was taken from mapstore.the.cz.",
+            "medium": "Pekka Kana 2",
+            "originalDate": "2014-01-31",
+            "archiveDate": "2023-03-16",
+            "downloadLinks": [
+                {
+                    "name": "Internet Archive Scrape",
+                    "link": "https://web.archive.org/web/20160416000550/http://mapstore.the.cz/episodes/mystery.zip"
+                },
+                {
+                    "name": "Google Drive Mirror",
+                    "link": "https://drive.google.com/file/d/10VCkW3L5E2z7OvuPl7lOqmpQMXO_eGbq/view?usp=share_link"
+                }
+            ]
+        }
+    }
+}
