@@ -69,6 +69,25 @@
                 }
             ]
         },
+        "lx_setsultimaterevenge": {
+            "category": "spherematchers",
+            "displayName": "Set's Ultimate Revenge",
+            "description": "Another map is called \"Set's Ultimate Revenge\". It's a 2-2 version of \"Rancor of Set\" which I have designed months ago but created just now. The map surely lives up to it's name! Just by looking at the screenshot, you can tell it's a tough map.",
+            "notes": "This is a standalone Luxor map - place the folder in (your extracted Luxor/Luxor Amun Rising copy)/data/maps. For maximum difficulty (if playing on Amun Rising, which is recommended). Bobik didn't provide a pre-made difficult level file though.",
+            "images": [
+                "SET.png"
+            ],
+            "medium": "Luxor Map",
+            "originalDate": "2016-11-05",
+            "archiveDate": "2023-03-16",
+            "originalSource": "https://spherematchers.proboards.com/thread/196/luxor-map-database?page=2&scrollTo=8518",
+            "downloadLinks": [  
+                {
+                    "name": "Google Drive",
+                    "link": "https://drive.google.com/file/d/1-QTjaAw0kolw7qR07ruvGtZs4r-fXJ6W/view?usp=share_link"
+                }
+            ]
+        },
         "pk2_applepursuit": {
             "category": "pekkakana2",
             "displayName": "The Apple Pursuit",
